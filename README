@@ -1,3 +1,4 @@
+Экзаминационная работа, клиент серверное приложение.
 		         DOCKER
 docker image : https://hub.docker.com/r/matthew1x/finalwork
 docker build -it exam_task
